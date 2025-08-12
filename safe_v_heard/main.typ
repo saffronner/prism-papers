@@ -121,5 +121,3 @@ If you are viewing this article online #link("https://github.com/saffronner/pris
 ) <browse-channel>
 
 Yap meter (word count): #total-words
-
-s
