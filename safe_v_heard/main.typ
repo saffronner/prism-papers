@@ -110,7 +110,7 @@ Huh, weird. Thought I'd have more proposals. I forgor.
 
 Important note: I MAY BE WRONG OR HAVE NOT CONSIDERED THINGS!!! SO TALK TO ME ABOUT IT!!! DISCUSSIONS! :D
 
-If you are viewing this article online #link("https://github.com/saffronner/prism-papers/blob/main/safe_v_heard/main.pdf")[here], you are seeing a living article that is kept updated as I edit. The version history is available as well #link("https://github.com/saffronner/prism-papers/commits/main/safe_v_heard")[here].
+If you are viewing this article online #link("https://github.com/saffronner/prism-papers/blob/safe_v_heard/dev/safe_v_heard/main.pdf")[here], you are seeing a living article that is kept updated as I edit. The version history is available as well #link("https://github.com/saffronner/prism-papers/commits/safe_v_heard/dev/safe_v_heard/main.pdf")[here].
 
 #pagebreak(weak: true)
 = Appendix
@@ -122,3 +122,4 @@ If you are viewing this article online #link("https://github.com/saffronner/pris
 
 Yap meter (word count): #total-words
 
+s
