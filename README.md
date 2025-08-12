@@ -9,3 +9,5 @@ Optional id can be the first four digits of a [v4 UUI](https://www.uuidgenerator
 Use `meta` as the folder name if we do work on the root folder.
 
 Merge features into dev and then dev into folder.
+
+This current method comes from here https://www.reddit.com/r/git/comments/mvh1fk/comment/gvcdodq/.
