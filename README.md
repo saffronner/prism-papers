@@ -11,3 +11,5 @@ Use `meta` as the folder name if we do work on the root folder.
 Merge features into dev and then dev into folder.
 
 I'm curious if this works well.
+
+This current method comes from here https://www.reddit.com/r/git/comments/mvh1fk/comment/gvcdodq/.
