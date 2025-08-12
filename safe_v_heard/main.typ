@@ -97,6 +97,10 @@ What is safety here? It needs to be defined somehow. I am of the opinion that vi
 
 Apparently this style of channel administration is seen often on Slack.
 
+== Proposal 2: Threading
+
+I agree that threads are good. I think forums (in general, not saying an opinion on discord forums) are cool. TODO: write the rest! :D
+
 #pagebreak()
 = Closing remarks
 
