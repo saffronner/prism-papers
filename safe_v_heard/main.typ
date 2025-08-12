@@ -15,6 +15,8 @@
 #let title = [Musing about safety v.s. freedom, and proposals.]
 #text(size: 20pt)[*#title*]
 
+(Feel free to download as pdf for easier viewing and to enable links and footnote jumping.)
+
 I'll start with a concept that might seem off topic and then get to the point.
 
 #outline()
@@ -108,7 +110,7 @@ Huh, weird. Thought I'd have more proposals. I forgor.
 
 Important note: I MAY BE WRONG OR HAVE NOT CONSIDERED THINGS!!! SO TALK TO ME ABOUT IT!!! DISCUSSIONS! :D
 
-If you are viewing this article online #link("https://github.com/saffronner/prism-papers/blob/main/safe_v_heard/main.pdf")[here], you are seeing a living article that is kept updated as I edit (feel free to download as pdf for easier viewing and enabling links and footnote jumping). The version history is available as well #link("https://github.com/saffronner/prism-papers/commits/main/safe_v_heard")[here].
+If you are viewing this article online #link("https://github.com/saffronner/prism-papers/blob/main/safe_v_heard/main.pdf")[here], you are seeing a living article that is kept updated as I edit. The version history is available as well #link("https://github.com/saffronner/prism-papers/commits/main/safe_v_heard")[here].
 
 #pagebreak(weak: true)
 = Appendix
