@@ -43,7 +43,7 @@ So what was our issue again?
 
 #quote(block: true, attribution: [mathrocks784 at #link("https://discord.com/channels/453284856227430415/1404791453611327488/1404832909361283194")[message]])[... it seems as if there might be a little tradeoff here... in order to keep members safe, some opinions that people want to speak out should be restricted, but in order to make sure members are heard, sometimes hard truths or potentially offensive statements might have to be spilled...]
 
-So, there are two paradigms. For the sake of argument, let's assume discussions happen in good faith and people aren't doing excessive insults or whatever and leave this other side to the ideas of moderation and expectation setting in PRISM. The paradigms are #footnote[where what discussion, people, controversial, and desirable are changes per discussion.] 
+So, there are two paradigms. To constrain this paper's scope, let's assume discussions happen in good faith and people aren't doing excessive insults or whatever and leave this other side to the ideas of moderation and expectation setting in PRISM. The paradigms are #footnote[where what discussion, people, controversial, and desirable are changes per discussion.] 
 
 1. discussion with people who are saying controversial things is undesirable
 
